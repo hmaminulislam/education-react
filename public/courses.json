@@ -1,0 +1,56 @@
+[
+  {
+    "id": "634298f5a7e855dfd2ce9370",
+    "name": "Foley Mccarty",
+    "img": "https://themearth.com/demo/html/educationplus/view/assets/img/news/author1.jpg",
+    "cover": "https://themearth.com/demo/html/educationplus/view/assets/img/courses/course1.jpg",
+    "designation": "Lecturar of Eduplus",
+    "courseName": "Learn Python – Interactive Python",
+    "price": 532
+  },
+  {
+    "id": "634298f55c1e0f544fdaed43",
+    "name": "Brooks Ewing",
+    "img": "https://themearth.com/demo/html/educationplus/view/assets/img/news/author2.jpg",
+    "cover": "https://themearth.com/demo/html/educationplus/view/assets/img/events/event1.jpg",
+    "designation": "Lecturar of Education plus",
+    "courseName": "Advance Oracle – Learn Intermediate Oracle",
+    "price": 434
+  },
+  {
+    "id": "634298f59a90f1ef5f444a1c",
+    "name": "Pratt Banks",
+    "img": "https://themearth.com/demo/html/educationplus/view/assets/img/news/author5.jpg",
+    "cover": "https://themearth.com/demo/html/educationplus/view/assets/img/courses/course3.jpg",
+    "designation": "Lecturar of Edumaster",
+    "courseName": "Basic PHP – Learn Basic PHP Language",
+    "price": 299
+  },
+  {
+    "id": "634298f5830c7f83c6b67a1a",
+    "name": "Harriet Tillman",
+    "img": "https://themearth.com/demo/html/educationplus/view/assets/img/courses/courses-author1.jpg",
+    "cover": "https://themearth.com/demo/html/educationplus/view/assets/img/courses/course6.jpg",
+    "designation": "Lecturar of Edumaster",
+    "courseName": "Learn Java Interactive Java Resources",
+    "price": 412
+  },
+  {
+    "id": "634298f569c60ff6959c4687",
+    "name": "Noble Castillo",
+    "img": "https://themearth.com/demo/html/educationplus/view/assets/img/news/author3.jpg",
+    "cover": "https://themearth.com/demo/html/educationplus/view/assets/img/courses/course4.jpg",
+    "designation": "Lecturar of Edumaster",
+    "courseName": "Learn Electronics From Education Plus",
+    "price": 528
+  },
+  {
+    "id": "634298f59e4232724ea3fb5f",
+    "name": "Sheena Robles",
+    "img": "https://themearth.com/demo/html/educationplus/view/assets/img/news/author4.jpg",
+    "cover": "https://themearth.com/demo/html/educationplus/view/assets/img/courses/course5.jpg",
+    "designation": "Lecturar of Edumaster",
+    "courseName": "Learn Python Interactive Python Code",
+    "price": 358
+  }
+]
