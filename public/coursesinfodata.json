@@ -1,37 +1,37 @@
 [
   {
     "id": "634266e0b71bc8a5b87f86ff",
-    "icon": "faCirclePlay",
+    "icon": "fa-regular fa-circle-play",
     "name": "Free Tutorials",
     "text": "Etiam vel ante ac lacus vestibulum rutrum. Aliquam vehicula, massa in auctor dapibus commodo quis vehicula lacus metus sed justo."
   },
   {
     "id": "634266e07694aab528c07a5a",
-    "icon": "faAddressBook",
+    "icon": "fa-regular fa-address-book",
     "name": "500+ Courses",
     "text": "Etiam vel ante ac lacus vestibulum rutrum. Aliquam vehicula, massa in auctor dapibus commodo quis vehicula lacus metus sed justo."
   },
   {
     "id": "634266e09c18f91a631dfe40",
-    "icon": "faBook",
+    "icon": "fa-solid fa-book",
     "name": "180k Books Available",
     "text": "Etiam vel ante ac lacus vestibulum rutrum. Aliquam vehicula, massa in auctor dapibus commodo quis vehicula lacus metus sed justo."
   },
   {
     "id": "634266e0ea9cf899813fa150",
-    "icon": "faGraduationCap",
+    "icon": "fa-solid fa-graduation-cap",
     "name": "Certified teachers",
     "text": "Etiam vel ante ac lacus vestibulum rutrum. Aliquam vehicula, massa in auctor dapibus commodo quis vehicula lacus metus sed justo."
   },
   {
     "id": "634266e0a3f8b6096ee83c80",
-    "icon": "faCertificate",
+    "icon": "fa-solid fa-certificate",
     "name": "Certification",
     "text": "Etiam vel ante ac lacus vestibulum rutrum. Aliquam vehicula, massa in auctor dapibus commodo quis vehicula lacus metus sed justo."
   },
   {
     "id": "634266e0106fee7599842e10",
-    "icon": "faLanguage",
+    "icon": "fa-solid fa-language",
     "name": "Language Lessons",
     "text": "Etiam vel ante ac lacus vestibulum rutrum. Aliquam vehicula, massa in auctor dapibus commodo quis vehicula lacus metus sed justo."
   }

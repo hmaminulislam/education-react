@@ -14,7 +14,7 @@ const CoursesInfos = () => {
         loadCoursesInfos()
     }, [])
     return (
-      <div className="grid grid-cols-3 gap-5 px-20 mt-28">
+      <div className="grid grid-cols-3 gap-5 px-20 bg-fuchsia-400 py-14">
         {coursesInfos.map((coursesInfo) => (
           <CoursesInfo
             key={coursesInfo.id}
